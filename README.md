@@ -5,4 +5,4 @@ With extensive experience across multiple industries and technologies, we bring 
 # Mission
 "Our mission is to revolutionize data interaction by providing expert BI, data analytics, and AI consulting, amplified by strategic Conversational BI solutions, and to empower businesses to unlock the full potential of their data through intuitive and accessible insights."
 
-# Personal
+
